@@ -1,5 +1,3 @@
-### Hi there <img src="https://raw.githubusercontent.com/ColtAllen/ColtAllen/master/wave.gif" width="30px">
-
 <!-- Actual text -->
 Welcome to my data science project portfolio! These projects are an ongoing WIP and I'm interesting in collaborating with others on projects involving Bayesian inference in Python and Stan, so please keep checking back for updates and contact me if you're interested. You can also find me on [![LinkedIn][1.1]][1].
 
