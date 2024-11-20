@@ -1,5 +1,5 @@
 <!-- Actual text -->
-Welcome to my data science project portfolio! These projects are an ongoing WIP and I'm interesting in collaborating with others on projects involving Bayesian inference in Python and Stan, so please keep checking back for updates and contact me if you're interested. You can also find me on [![LinkedIn][1.1]][1].
+Welcome to my data science project portfolio! I'm one of the lead developers for the [pymc-marketing](https://www.pymc-marketing.io/en/stable/) library for marketing analytics, so please contact me if you're interested in contributing. You can also find me on [![LinkedIn][1.1]][1].
 
 <!-- Icons -->
 
